@@ -1,5 +1,3 @@
-
-
 # EnterpriseAngularMonoRepoPatterns
 
 This project was generated using [Nx](https://nx.dev).
@@ -87,11 +85,6 @@ Run `nx dep-graph` to see a diagram of the dependencies of your projects.
 
 Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
 
-
-
-
-
-
 ## ☁ Nx Cloud
 
 ### Distributed Computation Caching & Distributed Task Execution
@@ -103,3 +96,7 @@ Nx Cloud pairs with Nx in order to enable you to build and test code more rapidl
 Teams using Nx gain the advantage of building full-stack applications with their preferred framework alongside Nx’s advanced code generation and project dependency graph, plus a unified experience for both frontend and backend developers.
 
 Visit [Nx Cloud](https://nx.app/) to learn more.
+
+# NX Books and Links
+
+- [enterprise-angular-mono-repo-patterns](https://f.hubspotusercontent20.net/hubfs/2757427/enterprise-angular-mono-repo-patterns.pdf?utm_campaign=Book%3A%20Monorepo%20Patterns%2C%20Jan%202019&utm_medium=email&_hsenc=p2ANqtz-_wG7UBR34NLqMulbKUSMBRb7_RkSqGE9i1Kiw744oFyBowpYtj2L5UqQmWSCn0vUf144Y68GH6i0SasE3MTH-DNaid1g&_hsmi=94452610&utm_content=94452610&utm_source=hs_automation&hsCtaTracking=6e7a6088-179e-4182-9f56-8c32b4ef2a00%7C4399495e-cd1a-4c23-a9ea-4fabf30568a1)
